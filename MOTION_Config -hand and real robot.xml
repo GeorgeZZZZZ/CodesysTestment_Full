@@ -276,7 +276,7 @@
       </Drive>
       <Drive>
         <Name>Drive1</Name>
-        <Type>VIRTUAL</Type>
+        <Type>COE</Type>
         <EncResolution>131072</EncResolution>
         <GearRatioNum>121</GearRatioNum>
         <GearRatioDen>1</GearRatioDen>
@@ -304,7 +304,7 @@
       </Drive>
       <Drive>
         <Name>Drive2</Name>
-        <Type>VIRTUAL</Type>
+        <Type>COE</Type>
         <EncResolution>131072</EncResolution>
         <GearRatioNum>121</GearRatioNum>
         <GearRatioDen>1</GearRatioDen>
@@ -332,7 +332,7 @@
       </Drive>
       <Drive>
         <Name>Drive3</Name>
-        <Type>VIRTUAL</Type>
+        <Type>COE</Type>
         <EncResolution>131072</EncResolution>
         <GearRatioNum>101</GearRatioNum>
         <GearRatioDen>1</GearRatioDen>
