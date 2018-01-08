@@ -16,55 +16,55 @@ xsi:noNamespaceSchemaLocation="HANDS_Config.xsd">
       <Motor>
         <Name>Thumb_0</Name>
         <Id>1</Id>
-        <CalibPos>1598</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Thumb_1</Name>
         <Id>2</Id>
-        <CalibPos>1117</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Thumb_2</Name>
         <Id>3</Id>
-        <CalibPos>1418</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Thumb_3</Name>
         <Id>4</Id>
-        <CalibPos>1418</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Index_0</Name>
         <Id>5</Id>
-        <CalibPos>1490</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Index_1</Name>
         <Id>6</Id>
-        <CalibPos>1743</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Index_2</Name>
         <Id>7</Id>
-        <CalibPos>1743</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Wrist_0</Name>
         <Id>8</Id>
-        <CalibPos>1897</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Wrist_1</Name>
         <Id>9</Id>
-        <CalibPos>2131</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
     </Motors>
@@ -85,55 +85,55 @@ xsi:noNamespaceSchemaLocation="HANDS_Config.xsd">
       <Motor>
         <Name>Mid_0</Name>
         <Id>11</Id>
-        <CalibPos>1500</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Mid_1</Name>
         <Id>12</Id>
-        <CalibPos>837</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Mid_1</Name>
         <Id>13</Id>
-        <CalibPos>837</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Ring_0</Name>
         <Id>14</Id>
-        <CalibPos>1514</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Ring_1</Name>
         <Id>15</Id>
-        <CalibPos>1509</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Ring_2</Name>
         <Id>16</Id>
-        <CalibPos>1509</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
       <Motor>
         <Name>Little_0</Name>
         <Id>17</Id>
-        <CalibPos>966</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor> 
 
       <Motor>
         <Name>Little_1</Name>
         <Id>18</Id>
-        <CalibPos>1431</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 
       <Motor>
         <Name>Little_2</Name>
         <Id>19</Id>
-        <CalibPos>1431</CalibPos>
+        <CalibPos>0</CalibPos>
       </Motor>
 	  
     </Motors>
