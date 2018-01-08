@@ -95,7 +95,7 @@ xsi:noNamespaceSchemaLocation="HANDS_Config.xsd">
       </Motor>
 
       <Motor>
-        <Name>Mid_1</Name>
+        <Name>Mid_2</Name>
         <Id>13</Id>
         <CalibPos>0</CalibPos>
       </Motor>
