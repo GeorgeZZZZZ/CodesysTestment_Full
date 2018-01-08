@@ -886,6 +886,11 @@
 			<DriveName>Thumb_2</DriveName>
 			<DriveName>Wrist_0</DriveName>
 			<DriveName>Wrist_1</DriveName>
+			<DriveName>Thumb_3</DriveName>
+			<DriveName>Index_2</DriveName>
+			<DriveName>Mid_2</DriveName>
+			<DriveName>Ring_2</DriveName>
+			<DriveName>Little_2</DriveName>
 		</AuxAxesList>
 		
         <BaseOffset>
